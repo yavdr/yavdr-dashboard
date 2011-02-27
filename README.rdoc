@@ -1,1 +1,3 @@
 = yavdr-dashboard
+
+dashboard scripts for yavdr-webfrontend
